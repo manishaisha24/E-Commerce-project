@@ -1,0 +1,134 @@
+@media screen and (max-width: 576px){
+    .head{
+        display: none;
+    }
+    .head2{
+        display: none;
+    }
+    .text{
+        margin: auto;
+    }
+
+    .b{
+        display: none;
+    }
+    .h1color{
+        margin: auto;
+    }
+    .search{
+        width: 80%;
+        margin: auto;
+    }
+    .a-names{
+        display: none;
+    }
+    .main2{
+        height: 50%;
+        width: 100%;
+        background-size: contain;
+    }
+    .banner{
+        background-color: rgb(255,255,255,0.7);
+        padding: 10%;
+        width: 100%;
+        height: 100%;
+    }
+    .banner p{
+        font-size: 1em;
+    }
+    .banner h1{
+        font-size: 1.5em;
+        font-weight: 800;
+    }
+    .starting strong{
+        font-size: 25px;
+        font-weight: 800;
+    }
+    .one_small{
+        width: 40%;
+    }
+    .top_text{
+        font-size: 10px;
+        /* width: 30em; */
+    }
+
+    .seprate{
+        width: 10em;
+    }
+    .seprate p{
+        font-size: 12px;
+        padding: 2px;
+        /* font-weight: 800; */
+    }
+    .top_text a{
+        position: relative;
+        right: 22px;
+        }
+        .long_container{
+            display: none;
+        }
+        .best_seller1{
+            display: none;
+        }
+        .main{
+            width: 100%;
+            /* position: absolute; */
+        }
+        .main_center2{
+            width: 100%;
+            /* border: 1px solid blue; */
+        }
+        .alltext p {
+            margin-top: 4px;
+        }
+        
+        .shampoo_sec{
+            height: 22%;
+            margin-left: -0px;
+        }
+        .shampoo_div{
+            display: block;
+        }
+        .shampoo_image img{
+            width:100%;
+        }
+        .shampoo_div{
+            width: 100%;
+        }
+        .shampoo_icon{
+            width: 100%;            
+            /* height: 100%;             */
+
+        }
+        .shampoo_icon h5{
+            font-size: 16px;
+        }
+        .progress_bar{
+            width: 70%;
+        }
+        .progress_bar .pink{
+            font-size: 2px;
+             
+        }
+        .main_center2{
+            width: 70%;
+        }
+        .long_container_main {
+            width: 60%;
+        }
+        .products{
+            margin: 5px 0px;
+            height: 46%; 
+        }
+        .trestimonial_div{
+            border: 1px solid rgb(248, 27, 27);
+        }
+        .testi_alan{
+            width: 30%;
+        }
+        .our_services{
+            height: 80%;
+            width: 28%;
+        }
+        
+}
